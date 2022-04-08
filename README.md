@@ -1,7 +1,7 @@
 # amina
 12345
 orders = {
- 'juice': 200,
+ 'tea': 200,
  'burger': 56,
  'fruits': 25,
     'Coffee': 14
