@@ -1,9 +1,9 @@
 # amina
 12345
 orders = {
- 'pizza': 200,
+ 'juice': 200,
  'burger': 56,
- 'pepsi': 25,
+ 'fruits': 25,
     'Coffee': 14
 }
 sorted_dic= sorted(orders.items(), key=lambda x: x[1])
